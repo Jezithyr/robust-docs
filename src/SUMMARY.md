@@ -194,12 +194,6 @@ Space Station 14
 	- [Proposals]()
 		- [Stat Panels](en/space-station-14/user-interface/proposals/statpanels.md)
 - [Departments](en/space-station-14/departments.md)
-	- [Atmos](en/space-station-14/departments/atmos.md)
-		- [PR Guidelines](en/space-station-14/departments/atmos/guidelines.md)
-
-		- [Proposals]()
-			- [Atmos Rework](en/space-station-14/departments/atmos/proposals/atmos-rework.md)
-
 	- [Cargo/Salvage](en/space-station-14/departments/cargo-salvage.md)
 		- [PR Guidelines](en/space-station-14/departments/cargo-salvage/guidelines.md)
 	
@@ -217,6 +211,7 @@ Space Station 14
 		- [Pow3r](en/space-station-14/departments/engineering/pow3r.md)
 
 		- [Proposals]()
+			- [Atmos Rework](en/space-station-14/departments/engineering/proposals/atmos-rework.md)
 			- [Engine Containment](en/space-station-14/departments/engineering/proposals/engine-containment.md)
 			- [Machine Upgrading Rework](en/space-station-14/departments/engineering/proposals/machine-upgrading-rework.md)
 			- [Power Generation Rework](en/space-station-14/departments/engineering/proposals/power-generation.md)

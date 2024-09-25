@@ -11,7 +11,7 @@ Questions around Core Game Design should be directed towards the Design Group on
 
 
 # What is Spacestation 14?
- Spacestation 14 is a game where disasters, enemies, and incompetence conspire to make each shift aboard the station a unique and hellish experience.
+ Spacestation 14 is a game where disasters, enemies, and incompetence conspire to make each shift aboard the station a unique,hellish and humorous experience.
 
 # Core Pillars
 These pillars serve as the guiding concepts for designing features for SS14. When creating features or changing balance you should be actively thinking about how these concepts relate to your design or change. 

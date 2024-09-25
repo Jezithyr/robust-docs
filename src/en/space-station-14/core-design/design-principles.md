@@ -1,7 +1,3 @@
-```admonish warning "Attention: WIP!"
-This doc is actively under development and is not fully complete. Things may change!
-```
-
 # Design Principles
 Here we go into more detail about each of SS14's Core Design Pillars breaking them down further into design principles. Once again these are not hard requirements, but expect to recieve heavy scruitiny on your design if you aren't following these. 
 
@@ -21,11 +17,11 @@ SS14 at it's heart is a horror comedy: on one hand you have a souless megacorp t
 
 The situations that regularly happen in SS14 are absolutely unhinged yet players generally take them seriously. When you are creating content or mechanics, you should lean into this dissonance and embrace the fact that something can be silly and serious at the same time. 
 
-When creating a new mechanic try to introduce ways that things can go horribly, horribly and hilariously wrong (or right depending on who you ask). Try to create situations that would be hilarious to hear told as a story but would be terrifying to be in as a player.
+When creating a new mechanic experiment with introducing ways that things can go horribly, horribly and hilariously wrong (or right depending on who you ask). Try to create situations that would be hilarious to hear told as a story but would be terrifying to be in as a player. But it's also important to not overdue it or players will lose investment and take things less seriously.
 
 ## Dynamic Environment
 
-The environment of a SS14 round is as much a character as the players, and can dramatically change over the course of a round. Players have the complete freedom to shape the gameworld the way they wish whether by building, destroying or changing things on the station. 
+The environment of a SS14 round is as much a character as the players, and can dramatically change over the course of a round. Players have the freedom to shape the gameworld the way they wish whether by building, destroying or changing things on the station. 
 
 SS14 is a game where it should be possible for players to decide to "make their own station with blackjack and hookers", and go do just that, or continue playing a round and rebuild the station after it was sliced in half (Both of these have occured multiple times in the history of SS13 and SS14). 
 
@@ -33,7 +29,7 @@ Because of this, **Mechanics *cannot* be location specific or require items that
 
 ## Intuitive and Inter-Connected Simulation
 
-If SS14's heart is being a horror comedy, then SS14's soul is simulation. SS13/14 has come a long way from the simple atmospherics simulator that Exadv1 wrote all those ages ago, yet at its Core SS14 features indepth atmospheric and power simulation. 
+If SS14's heart is being a horror comedy, then SS14's soul is simulation. SS13/14 has come a long way from the simple atmospherics simulator that Exadv1 wrote all those ages ago, yet at its core SS14 is still built around the indepth atmospheric and power simulation systems of its predecessor. 
 
 Part of the unique experience of Spacestation 14 is interacting with its indepth simulation gameplay while dealing with the chaos that comes from antagonists and random events. SS14's indepth simulation and numerous inter-system interactions work for the average player because "They just make sense".
 
@@ -45,9 +41,9 @@ When designing simulation-based mechanics try to think of the different ways tha
 
 ## Player Interaction
 
-Mechanics should seek to be pro-social and encourage interacting with other players. These interactions need not be strictly cooperative or competitive in nature. Humans are chaotic by nature, and provide depth and replayability to games that cannot fully be achieved through programmed mechanics alone. Thus, we should utilize that power to drive gameplay.
+Mechanics should seek to be pro-social and encourage interacting with other players. These interactions need not be strictly cooperative or competitive in nature. Humans are chaotic by nature, and provide depth/replayability to games that cannot fully be achieved through programmed mechanics alone. Thus, we should utilize that power to drive gameplay.
 
-Mechanics which incentivize players to do them entirely alone, or mechanics that are not affected by events that occur in a round and/or the actions taken by other players, **will very likely not be added to SS14**.
+Mechanics which incentivize players to do them entirely alone, or mechanics that are not affected by events that occur in a round and/or the actions taken by other players, **should be avoided at all costs**. There are cases where they may fit or be required for another mechanic/system but new mechanics should not be created with this sort of gameplay in mind.
 
 These mechanics detract from the overall game by segmenting players into their own separate regions of play. Mechanics which are "simpler" but reward social gameplay will always be preferred to mechanics which are "deep" but are single-player.
 
@@ -61,9 +57,9 @@ Players should always feel like they have the ability to choose what they should
 
 When you design a mechanic, you should be very conscious of the choices and information you are giving players. If your choices are too simple or you give too much information to players, your choices become a "false choice" where there is only one "correct" answer. 
 
-Another word for this is Metagame (Meta for short), or where a particular choice, item, ability, etc. becomes the best possible option and all others are ignored in favor of getting the best advantage. **Avoid designing mechanics in a way where a "Meta" may be developed.**
+Another word for this is Metagame (Meta for short), or where a particular choice, item, ability, etc. becomes the best possible option and all others are ignored in favor of getting the best advantage. **Avoid designing mechanics in a way where a "Meta" may be developed.** This is harder said than done, but by thinking about how to provide balanced choices, you can counteract a "Meta" being formed in the design stage.
 
-Care should also be taken to make sure that player interactions do not overly limit other player's agency, especially when conflict is involved. If your mechanic involves conflict both players should always be given some counterplay options, ideally in a way that can be learned as a skill.
+Care should also be taken to make sure that player interactions do not overly limit other player's agency, especially when conflict is involved. If your mechanic involves conflict both players should always be given some counterplay options, ideally in a way that can be learned as a skill by the player.
 
 This also goes for non-combat interactions as well, avoid creating situations where players are "Railroaded" into a specific action either mechanically or by the metagame. **A player should never feel like they have no options in their situation**.
 
