@@ -183,6 +183,7 @@ Space Station 14
 	- [Proposals]()
 		- [Cleanup Crew Gamemode](en/space-station-14/round-flow/proposals/cleanup-crew-gamemode.md)
 		- [Game Director](en/space-station-14/round-flow/proposals/game-director.md)
+		- [Departmental Economy](en/space-station-14/round-flow/proposals/departmental-economy.md)
 		- [Pizza Delivery Critter](en/space-station-14/round-flow/proposals/pizza-delivery-critter.md)
 		- [Rogue Drones](en/space-station-14/round-flow/proposals/rogue-drones.md)
 		- [Turf War](en/space-station-14/round-flow/proposals/turf-war.md)
@@ -294,12 +295,7 @@ Community
   - [Wizards Den Infrastructure](en/community/infrastructure-reference/wizards-den-infrastructure.md)
   - [Grafana Dashboards](en/community/infrastructure-reference/grafana-dashboards.md)
 - [Space Wizards Hub Rules](en/community/space-wizards-hub-rules.md)
-- [Space Wizards Role Hierarchy](en/community/space-wizards-role-hierarchy.md)
-- [Space Wizards Maintainer List](en/community/space-wizards-maintainer-list.md)
 - [Discord Rich Presence Repository](en/community/discord-rich-presence-repository.md)
-- [Project Manager](en/community/projectmanager.md)
-- [Maintainer](en/community/maintainer.md)
-  - [Review Policy](en/community/maintainer/wizards-den-review-policy.md)
 - [Admin](en/community/admin.md)
   - [Admin Tooling](en/community/admin/admin-tooling.md)
     - [Admin Command Cookbook](en/community/admin/admin-tooling/admin-command-cookbook.md)
@@ -319,9 +315,14 @@ Staff
 ==============
 
 ----------------------
-
-- [Maintainer Policy](en/staff/maintainer-policy.md)
-- [Staff Conflict Resolution](en/staff/staff-conflict-resolution.md)
+- [Project Manager](en/wizden-staff/projectmanager.md)
+- [Maintainer](en/wizden-staff/maintainer.md)
+  - [Review Policy](en/wizden-staff/maintainer/wizards-den-review-policy.md)
+- [Space Wizards Role Hierarchy](en/wizden-staff/space-wizards-role-hierarchy.md)
+- [Space Wizards Maintainer List](en/wizden-staff/space-wizards-maintainer-list.md)
+- [Maintainer Policy](en/wizden-staff/maintainer-policy.md)
+- [Staff Policy](en/wizden-staff/staff-staff-policy.md)
+- [Staff Conflict Resolution](en/wizden-staff/staff-conflict-resolution.md)
 
 Maintainer Meetings
 ==============
